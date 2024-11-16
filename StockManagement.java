@@ -1,7 +1,7 @@
 /*
 James Arnold S. Nieves
 October 16, 2024
-Final Challege No.1:StockManagement 
+Final Challenge No.1:Retail Store Inventory Management
 */
 public class StockManagement {
     public static void main(String[] args) {
